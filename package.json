@@ -5,7 +5,7 @@
     "ember": "./bin/ember"
   },
   "dependencies": {
-    "sync-prompt": "https://github.com/shovon/sync-prompt",
+    "sync-prompt": "git+https://github.com/shovon/sync-prompt",
     "commander": "1.1.1",
     "cli-color": "0.2.1",
     "walk": "2.2.1",
